@@ -49,6 +49,9 @@ http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" ,DIRECTV SPORTS
 http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87685
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" ,Redbull TV SPORT
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" ,CARTOONITO KIDS
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
