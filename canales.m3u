@@ -36,6 +36,9 @@ http://skylogic.site:8080/LeCyGodF/de198ad6/6446
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/250px-Logo_de_Claro.svg.png" ,CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DIRECTV SPORTS
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1059
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" ,Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
 
