@@ -39,6 +39,30 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DIRECTV SPORTS
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1059
 
+#EXTINF:-1 tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png" ,BeIN Sports Ñ 
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png" ,CITY SPORTS TV
+https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" ,TyC Sports
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/104388
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/800px-TUDN_Logo.svg.png" ,TUDN HD
+http://190.61.102.67:31589/play/a08j/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" ,DIRECTV SPORTS
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87685
+
+#EXTINF:-1  tvg-name="TYC SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" ,TYC SPORTS
+http://45.238.21.106:6688/play/a04l/index.m3u8
+
+#EXTINF:-1  tvg-name="TYC SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" ,TYC SPORTS
+http://45.238.21.106:6688/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" ,TyC SPORTS Internacional
+http://45.179.140.242:8000/play/a0k7
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" ,Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
 
