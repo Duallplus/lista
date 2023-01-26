@@ -33,6 +33,9 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/10-hls/live-media.
 #EXTINF:-1, ESPN DEPORTES HD 🇺🇸
 http://skylogic.site:8080/LeCyGodF/de198ad6/6446
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/250px-Logo_de_Claro.svg.png" ,CLARO SPORTS
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" ,Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
 
