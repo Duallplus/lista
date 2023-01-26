@@ -1,13 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200"  ,Euronews
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200"  ,Euronews Noticias
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2018/08/28/5fa43b1528a30.jpeg" ,Canal 24 horas
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2018/08/28/5fa43b1528a30.jpeg" ,Canal 24 horas Noticias
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/14ac1J9m-vNPyPiQBue0GwQsujD8E6Iyach-A8KlMSYPPQ2-t7ueZ9QCGDoMoc7uEfE=w600-h300-pc0xffffff-pd" ,RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_hispan-tv_m.png" ,HispanTV Noticias
+https://live1.presstv.ir/live/hispan.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" ,canal de las estrella
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
