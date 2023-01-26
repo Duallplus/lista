@@ -36,5 +36,8 @@ http://skylogic.site:8080/LeCyGodF/de198ad6/6446
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" ,Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDlkOBx.png" ,Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
+
 
 
