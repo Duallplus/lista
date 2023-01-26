@@ -33,5 +33,8 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/10-hls/live-media.
 #EXTINF:-1, ESPN DEPORTES HD 🇺🇸
 http://skylogic.site:8080/LeCyGodF/de198ad6/6446
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" ,Locomotion TV
+http://51.222.85.85:81/hls/loco/index.m3u8
+
 
 
