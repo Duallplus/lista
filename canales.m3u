@@ -52,7 +52,16 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/302640
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DIRECTV SPORTS
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1059
+http://tv-cool.com:25461/2022850718/26f6d3a754/61856
+
+#EXTINF:-1 ,Directv Sports 2 ʜᴅ ᴀʀɢ
+http://tv-cool.com:25461/2022850718/26f6d3a754/62551
+
+#EXTINF:-1 ,Directv Sports 2 ʜᴅ ᴄᴏ
+http://tv-cool.com:25461/2022850718/26f6d3a754/76986
+
+#EXTINF:-1 ,Directv Sports Plus ʜᴅ
+http://tv-cool.com:25461/2022850718/26f6d3a754/29930
 
 #EXTINF:-1 tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png" ,BeIN Sports Ñ 
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
