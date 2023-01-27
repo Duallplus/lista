@@ -73,8 +73,12 @@ http://teamnextlevel.xyz:25461/vicente/vicente/201538
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" ,DIRECTV SPORTS 1
 http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87685
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" ,DZAN LA LIGA
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/197233
+
 #EXTINF:-1 tvg-logo="https://www.dthsat.com/images/Dazn-1-TV-Logo.png" ,DZAN 1
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144854 
+
 
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" ,Redbull TV SPORT
