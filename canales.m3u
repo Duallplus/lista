@@ -18,6 +18,9 @@ https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" ,canal de las estrella
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://sertv.gob.pa/nacionalfm/wp-content/uploads/sites/6/2020/09/SERTV-1.jpg" ,SERTV
+https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpuaZWHvApezvABbNnfskhflTa_KgoddMgBT9SmaMWq2f)/dm/3/x81cvsk/s/live-2.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/2155px-MTV_Hits_2021.svg.png" ,MTV HITS
 http://181.189.243.254:8000/play/a0pn/index.m3u8
 
