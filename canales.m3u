@@ -51,9 +51,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/302639
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es" ,ESPN 3 
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302640
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/250px-Logo_de_Claro.svg.png" ,CLARO SPORTS
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DIRECTV SPORTS
 http://tv-cool.com:25461/2022850718/26f6d3a754/61856
 
