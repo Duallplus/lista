@@ -30,6 +30,9 @@ https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/M%C3%A1s_23.png/132px-M%C3%A1s_23.png" ,+23 MUSICA
 http://45.228.232.204:16000/play/a051/index.m3u8
 
+#EXTINF:-1 ,Fox Sports 1
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png"  ,Fox Sports 2
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=559297891&_cdn_timestamp=1674891829&_cdn_token=67b5c6ce52375d1f6e66ac514c92798f99be51f5
 
