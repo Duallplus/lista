@@ -39,13 +39,13 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/10-hls/live-media.
 #EXTINF:-1, ESPN DEPORTES HD 🇺🇸
 http://skylogic.site:8080/LeCyGodF/de198ad6/6446
 
-#EXTINF:-1 ,ESPN 1 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" ,ESPN 1 
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302638
 
-#EXTINF:-1 ,ESPN 2 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s1600/espn2.png" ,ESPN 2 
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302639
 
-#EXTINF:-1 ,ESPN 3 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es" ,ESPN 3 
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302640
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/250px-Logo_de_Claro.svg.png" ,CLARO SPORTS
