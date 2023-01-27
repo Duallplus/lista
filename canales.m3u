@@ -21,6 +21,9 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/2155px-MTV_Hits_2021.svg.png" ,MTV HITS
 http://181.189.243.254:8000/play/a0pn/index.m3u8
 
+#EXTINF:-1 ,M2O MUSIC
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/M%C3%A1s_23.png/132px-M%C3%A1s_23.png" ,+23 MUSICA
 http://45.228.232.204:16000/play/a051/index.m3u8
 
@@ -58,8 +61,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" ,CARTOON NETWORK 2
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 ,M2O MUSIC
-https://video.m2o.it/embed/copertina/player-tv-m2o-live/2/2?adref=https://www.m2o.it/m2o-tv/&responsive=true&autostart=true&enp=dcmgpd&width=995&height=559
+
 
 
 
