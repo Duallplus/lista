@@ -36,7 +36,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" ,Fox Sports 3
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=559297931&_cdn_timestamp=1674891836&_cdn_token=b8ff3101105214a87dce431ac9d8707c4eaf9992
 
-#EXTINF:-1, ESPN DEPORTES HD 🇺🇸
+#EXTINF:-1, tvg-logo="https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg" ,ESPN DEPORTES HD 
 http://skylogic.site:8080/LeCyGodF/de198ad6/6446
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" ,ESPN 1 
