@@ -100,5 +100,25 @@ http://170.83.242.156:5350/play/a02r
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DTRPV6B.png" ,Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E01
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x01.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E02" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E02
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x02.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E03" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E03
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x03.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E04" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E04
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x04.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E05" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E05
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x05.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E06" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E06
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x06.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E07" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E07
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x07.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E08" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E08
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x08.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E09" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E09
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x09.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E10" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E10
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x10.lati.mp4
 
 
