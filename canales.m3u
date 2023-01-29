@@ -100,10 +100,25 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1294833136.m3u8
 #EXTINF:-1 ,ORBIT CINEMA 2
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1753625151.m3u8
 
+#EXTINF:11 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",CINECanal
+http://190.61.102.67:8000/play/a070
 
 
 
-#EXTINF:-1 tvg-logo="https://images.fanart.tv/bigpreview/billy-the-kid-63bfef56df996.jpg" group-title="SERIES" ,BILLY THE KID S01E01
-https://rr3---sn-hp57ynl6.c.drive.google.com/videoplayback?expire=1674893385&ei=CaDUY4TAJcqv2bQP0qOUgAc&ip=190.141.120.24&cp=QVRMVklfUlNWRlhPOncwZ3lqODJHZkUzSG12cW5DVkNHckdqSnZNX21fb09UWUladi1WTER0ZVI&id=8704ee83646914e8&itag=18&source=webdrive&requiressl=yes&mh=4_&mm=32&mn=sn-hp57ynl6&ms=su&mv=m&mvi=3&pl=24&ttl=transient&susc=dr&driveid=16LDwDZ-Fs4Qd_1Hd2dOC4NUrUMOEkwX9&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=2224.541&lmt=1674837665860198&mt=1674878470&subapp=DRIVE_WEB_FILE_VIEWER&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgIZQ_vKKEe4AhIoWawVD9j5gxVzP2BlKYR5b7FCwmDXQCIFwT3hQRR-E-n9lhWCJ21t2C3b-05Iw7WDuFl7lwDTkG&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgYAuaizLyYsPzv24End7ZlffMHOktiRoovSz5nwcHuVkCIGtAhN1ZbEzBAuCo0ml-bRn-t6Wcdg9fpv1QE3zpTJ5-&cpn=Re_gQBq23TrkTxP_&c=WEB_EMBEDDED_PLAYER&cver=1.20230111.01.00
-#EXTINF:-1 tvg-logo="https://images.fanart.tv/bigpreview/billy-the-kid-63bfef56df996.jpg" group-title="SERIES" ,BILLY THE KID S01E02
-https://ffc50759d65c6422fdc928e2a5fb5dcc2718655b14f65d9398cf489-apidata.googleusercontent.com/download/storage/v1/b/ucmcu/o/cmc%2F104693--cb2e2423-46d3-435c-8c35-d0c5d30df2da--rjkn--998014-google_storage?jk=AahUMlsbpgtX0f2VdPaAhT2dULUExhNrlIopDG34FRQuUaSA1mqTPmTfHUtn_l5h1xY-i7HaoXf7jIHv0C8lGZf8xifxMgW2-9h-Rr8ctUkUjdcCR2xqg14UZdoCwt5R2d7iazMF_f22zy99QNazXaxWIxNz3D1vdGChPzNjfYvJTeCeZXzmQxsjj-Bu3riSk8moD2hsfPF6YZsoZXP-aIzKAIBnEadcKRviEbgNlyOW2546PcMG7JMgp0MVA8VeREWL0iyKwsODjOfg1RNB1GiPDHOlGFk-2LeW5XmGZ2gSx1vbr1g76sBW4Do_5Vwz_l4B0LFbYMxjJvVuSmikXY7FFjrsVf4U31ByAKVMsURE5ALwyqz6rXznNvjwN98q1k8lO3VNkeOHcLXe2jHRchuQ5vi_7MuhWU-ooZ-2PsbTMPbpzAu_TcZ1lJzhIUMSmPIP9Gn9QkQn3fsmmGL6FbK5OCreo_3StG6hjdC6QxIemAVCduXXySS6XxlYFw73cfW41WwZ1StXfYaWH3junYSpOT_wb3NY1mBQRw7A2Ucn9DK5tb47TUGfWmb88TV6s9aF4-EMcAOhGsQ9TlK0m1eJIHohOPLGYH3MovZ2XaFqmUW76a26OonJF-iIE8JR79ol4QW81ZwPI202vsumjhsDnxSdH1pVucl6W0ohEyKFkJ3_ivBMySipkZsiXajCGfqsj-EYX27pHBMYABZvuhgsPbQkX-ZI3TN9Ifh9TqJ2ZObS1drWDOZ8A7_kdcKDpqzQAmNOnRn-XEECokhJpw2MSwJiirAAp9h6g7Tv_qNzLUBH6jlQVwCz8oYgcNYnj2jHtWHFpuo4eSStoD2MEDIj9J36h58FeNqD_kp_kPSwZrZdB24jVyCW9FPNWA1XKTUCVHSn3UEdXZRicGcyiOw2hnCfVsLcBkPi19Ipm1kFzz75ot2RhKCen8zIwmtqgofYLWxiudx7yLurd7r4diLG5cUR-K2Mjk54iielV0YpraXBye1fZFdWMG-DDqfhSFuanNuaTHG_DWklPWE5jTMv2RFZOGC-RbcwdsjybFHXziqiDP6DYPO9DaPXzKuwCLvJmoqujHcpJ47ReL189Z5h7IHa-dYMBgViRiBGgYMa0uEWl4lJOryf2sfYo69_hoXkS4OLLojfzlPn7IbgCZIlkE7ytDaSX0lq5i6HlAmHAO5om-eF16P2FGnXktciTHvkta_qyOEL2I99njjwLVJK780aQefINniIVmiIJxu0fqlOBI57CVGlMSdNCrsEp-uVvW2ArYEMrjTQysiQ&isca=1
+
+#EXTINF:-1 tvg-id="" tvg-name="03X01 dual" tvg-logo="https://image.tmdb.org/t/p/w780/9G2bKsMH7ktQddFTJQb4VneHhWr.jpg" group-title="SEE",03X01 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20APPLE%20TV/SEE/See%20T3/SEE%20DUAL%20S03E01.mkv.mkv
+#EXTINF:-1 tvg-id="" tvg-name="03X02 dual" tvg-logo="https://image.tmdb.org/t/p/w780/9G2bKsMH7ktQddFTJQb4VneHhWr.jpg" group-title="SEE",03X02 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20APPLE%20TV/SEE/See%20T3/SEE%20DUAL%20S03E02.mkv.mkv
+#EXTINF:-1 tvg-id="" tvg-name="03X03 dual" tvg-logo="https://image.tmdb.org/t/p/w780/9G2bKsMH7ktQddFTJQb4VneHhWr.jpg" group-title="SEE",03X03 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20APPLE%20TV/SEE/See%20T3/SEE%20DUAL%20S03E02.mkv.mkv
+#EXTINF:-1 tvg-id="" tvg-name="03X04 dual" tvg-logo="https://image.tmdb.org/t/p/w780/9G2bKsMH7ktQddFTJQb4VneHhWr.jpg" group-title="SEE",03X04 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20APPLE%20TV/SEE/See%20T3/SEE%20DUAL%20S03E02.mkv.mkv
+#EXTINF:-1 tvg-id="" tvg-name="03X05 dual" tvg-logo="https://image.tmdb.org/t/p/w780/9G2bKsMH7ktQddFTJQb4VneHhWr.jpg" group-title="SEE",03X05 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20APPLE%20TV/SEE/See%20T3/SEE%20DUAL%20S03E02.mkv.mkv
+#EXTINF:-1 tvg-id="" tvg-name="03X06 dual" tvg-logo="https://image.tmdb.org/t/p/w780/9G2bKsMH7ktQddFTJQb4VneHhWr.jpg" group-title="SEE",03X06 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20APPLE%20TV/SEE/See%20T3/SEE%20DUAL%20S03E02.mkv.mkv
+#EXTINF:-1 tvg-id="" tvg-name="03X07 dual" tvg-logo="https://image.tmdb.org/t/p/w780/9G2bKsMH7ktQddFTJQb4VneHhWr.jpg" group-title="SEE",03X07 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20APPLE%20TV/SEE/See%20T3/SEE%20DUAL%20S03E02.mkv.mkv
+#EXTINF:-1 tvg-id="" tvg-name="03X08 dual" tvg-logo="https://image.tmdb.org/t/p/w780/9G2bKsMH7ktQddFTJQb4VneHhWr.jpg" group-title="SEE",03X08 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20APPLE%20TV/SEE/See%20T3/S03E08.mkv
