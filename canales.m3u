@@ -18,6 +18,9 @@ https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" ,canal de las estrella
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="Cine", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
 #EXTINF:-1 tvg-logo="https://sertv.gob.pa/nacionalfm/wp-content/uploads/sites/6/2020/09/SERTV-1.jpg" ,SERTV
 https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpuaZWHvApezvABbNnfskhflTa_KgoddMgBT9SmaMWq2f)/dm/3/x81cvsk/s/live-2.m3u8
 
@@ -109,6 +112,12 @@ http://181.176.148.142:8000/play/a027
 
 #EXTINF:-1 ,ORBIT CINEMA
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1294833136.m3u8
+
+#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" ,PlanetaTV PELICULAS
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1320" tvg-name="TV PRIME Movie" tvg-logo="https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png", TV PRIME PELICULAS
+https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
 
 
 
