@@ -92,16 +92,11 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 http://tv-cool.com:25461/2022850718/26f6d3a754/31138
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" ,HBO 2
-http://teamnextlevel.xyz:25461/vicente/vicente/218152
 
-#EXTINF:-1 ,ORBIT CINEMA
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1294833136.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" ,CINE Familiar
 http://181.176.148.142:8000/play/a023
-
-#EXTINF:11 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,CINECanal
-http://190.61.102.67:8000/play/a070
 
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" ,CINE Premium
 http://181.176.148.142:8000/play/a025
@@ -109,8 +104,8 @@ http://181.176.148.142:8000/play/a025
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" ,DHE CINE
 http://181.176.148.142:8000/play/a027
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" ,SPACE
-http://190.108.85.114:8000/play/a0ai/index.m3u8
+#EXTINF:-1 ,ORBIT CINEMA
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1294833136.m3u8
 
 
 
