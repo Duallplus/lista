@@ -113,7 +113,7 @@ http://181.176.148.142:8000/play/a027
 #EXTINF:-1 ,ORBIT CINEMA
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1294833136.m3u8
 
-#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" ,PlanetaTV PELICULAS
+#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" ,PlanetaTV MOVIES
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1320" tvg-name="TV PRIME Movie" tvg-logo="https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png", TV PRIME PELICULAS
