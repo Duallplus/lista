@@ -106,6 +106,9 @@ http://190.61.102.67:8000/play/a070
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" ,CINE Premium
 http://181.176.148.142:8000/play/a025
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" ,DHE CINE
+http://181.176.148.142:8000/play/a027
+
 
 
 
