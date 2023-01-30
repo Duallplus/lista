@@ -109,6 +109,9 @@ http://181.176.148.142:8000/play/a025
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" ,DHE CINE
 http://181.176.148.142:8000/play/a027
 
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" ,SPACE
+http://190.108.85.114:8000/play/a0ai/index.m3u8
+
 
 
 
