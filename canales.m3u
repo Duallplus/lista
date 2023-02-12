@@ -90,6 +90,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="2MB| Espn Deportes" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" ,Espn Deportes
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2123475
 
+#EXTINF:-1 tvg-logo="http://l3d.us:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" ,ESPN plus
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10653
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" ,CARTOONITO KIDS
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
