@@ -15,3 +15,14 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://img.fcbayern.com/image/upload/t_cms-16x9/f_auto/w_1600,c_fill/q_auto/cms/public/images/fcbayern-com/homepage/es/logo-claro-sports-png.png" ,CLARO SPORT
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
 
+#EXTINF:-1 tvg-logo="http://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" ,TIGO SPORT
+http://45.5.118.226:8000/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" ,DIRECTV SPORTS
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/604.png" ,ESPN PREMIUM
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" ,TNT SPORTS 
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/132285
