@@ -12,5 +12,6 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/10653
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/logo-16x9-final.png" ,BEIN XTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://img.fcbayern.com/image/upload/t_cms-16x9/f_auto/w_1600,c_fill/q_auto/cms/public/images/fcbayern-com/homepage/es/logo-claro-sports-png.png" ,CLARO SPORT
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
 
